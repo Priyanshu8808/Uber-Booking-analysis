@@ -89,4 +89,7 @@ Quickly identify booking patterns and trends
 Understand cancellation behavior with percentage metrics
 Make data-driven operational and business decisions.
 
-![Dashboard Screenshot](./screenshots/dashboard1.png)
+Screenshot:
+![Dashboard Screenshot](https://github.com/Priyanshu8808/Uber-Booking-analysis/raw/main/Overall.png)
+
+
