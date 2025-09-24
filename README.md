@@ -90,6 +90,7 @@ Understand cancellation behavior with percentage metrics
 Make data-driven operational and business decisions.
 
 Screenshot:
-![Dashboard Screenshot](https://github.com/Priyanshu8808/Uber-Booking-analysis/raw/main/Overall.png)
+![Dashboard Screenshot](https://github.com/Priyanshu8808/Uber-Booking-analysis/raw/main/screenshots/Overall.png)
+
 
 
